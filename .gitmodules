@@ -1,0 +1,6 @@
+[submodule "shared_bu"]
+	path = shared_bu
+	url = https://github.com/thomas-heisel/shared_bu
+[submodule "shared_it"]
+	path = shared_it
+	url = https://github.com/thomas-heisel/shared_it
