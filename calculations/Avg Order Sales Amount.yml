@@ -1,5 +1,0 @@
-unique_name: Avg Order Sales Amount
-object_type: metric_calc
-label: Avg Order Sales Amount
-expression: '[Measures].[Sales Amount]/[Measures].[Order Quantity]'
-is_hidden: false
